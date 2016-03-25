@@ -1,0 +1,6 @@
+{
+  "name": "1.0.0",
+  "tagline": "BitsyCode JavaScript Library",
+  "body": "# BitsyCode JavaScript Library\r\nBitsycode is the most versatile Javascript Library (JSL) for speeding up development, and cutting out the hassle from the nitty gritty.\r\n\r\n\r\n***\r\n\r\n\r\n# How to use\r\nUsing code is easy and simple to use, without much knowledge of Javascript.\r\n\r\n**Simple Usage**\r\n`bitsyCode(\"selector\").sticky();`\r\n\r\n**Advanced Usage**\r\n`bitsyCode.scrolline();`\r\n\r\nYou can view the full method reference on [BitsyCode](https://www.bitsycode.com/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
