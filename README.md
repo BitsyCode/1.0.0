@@ -14,4 +14,9 @@ Using code is easy and simple to use, without much knowledge of Javascript.
 **Advanced Usage**
 `bitsyCode.scrolline();`
 
+
+***
+
+
+
 You can view the full method reference on [BitsyCode](https://www.bitsycode.com/)
